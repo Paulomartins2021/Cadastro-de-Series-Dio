@@ -1,0 +1,13 @@
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\bin\Debug\netcoreapp3.1\Cadastrodeseries.exe
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\bin\Debug\netcoreapp3.1\Cadastrodeseries.deps.json
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\bin\Debug\netcoreapp3.1\Cadastrodeseries.runtimeconfig.json
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\bin\Debug\netcoreapp3.1\Cadastrodeseries.runtimeconfig.dev.json
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\bin\Debug\netcoreapp3.1\Cadastrodeseries.dll
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\bin\Debug\netcoreapp3.1\Cadastrodeseries.pdb
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\obj\Debug\netcoreapp3.1\Cadastrodeseries.csprojAssemblyReference.cache
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\obj\Debug\netcoreapp3.1\Cadastrodeseries.AssemblyInfoInputs.cache
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\obj\Debug\netcoreapp3.1\Cadastrodeseries.AssemblyInfo.cs
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\obj\Debug\netcoreapp3.1\Cadastrodeseries.csproj.CoreCompileInputs.cache
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\obj\Debug\netcoreapp3.1\Cadastrodeseries.dll
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\obj\Debug\netcoreapp3.1\Cadastrodeseries.pdb
+C:\Users\Paulo S Martins\Documents\GitHub\Cadastrodeseries\obj\Debug\netcoreapp3.1\Cadastrodeseries.genruntimeconfig.cache
